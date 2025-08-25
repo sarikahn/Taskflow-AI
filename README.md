@@ -91,4 +91,4 @@ We welcome contributions to enhance the TaskFlow project. To contribute:
    git push origin feature-name
    ```
 
-<p align="center">Thank you for exploring the <strong>TaskFlow Repo</strong>! Happy coding! 🚀</p>
+<p align="center">Thank you for exploring the <strong>TaskFlow-AI Repo</strong>! Happy coding! 🚀</p>
